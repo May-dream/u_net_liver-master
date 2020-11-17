@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9974b3b-b307-4d54-b7ee-26887db2e51a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="0b5bf3b2-3f0a-4562-a6af-fb981e406602" />
+  <component name="ProjectId" id="1kJsZt4B8Gc2wCGXe3ClkxAdiCq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\python\work\u_net_liver-master\data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="u_net_liver-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9974b3b-b307-4d54-b7ee-26887db2e51a" name="Default Changelist" comment="" />
+      <created>1605430087709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605430087709</updated>
+      <workItem from="1605430088817" duration="1472000" />
+      <workItem from="1605431571032" duration="826000" />
+      <workItem from="1605439306754" duration="6090000" />
+      <workItem from="1605445707902" duration="4381000" />
+      <workItem from="1605450827265" duration="1048000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="772" y="255" width="816" height="675" key="#Deployment" timestamp="1605431428826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="772" y="255" width="816" height="675" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1605431428826" />
+    <state x="756" y="238" key="#SSH_Configurations" timestamp="1605430714125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="238" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1605430714125" />
+    <state x="576" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605444386338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="576" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605444386338" />
+    <state x="1102" y="343" key="FileChooserDialogImpl" timestamp="1605431258385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1102" y="343" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605431258385" />
+    <state width="1444" height="266" key="GridCell.Tab.0.bottom" timestamp="1605450092151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1444" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605450092151" />
+    <state width="1444" height="266" key="GridCell.Tab.0.center" timestamp="1605450092151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1444" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605450092151" />
+    <state width="1444" height="266" key="GridCell.Tab.0.left" timestamp="1605450092150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1444" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605450092150" />
+    <state width="1444" height="266" key="GridCell.Tab.0.right" timestamp="1605450092151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1444" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605450092151" />
+    <state x="681" y="233" key="SettingsEditor" timestamp="1605444400852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="233" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605444400852" />
+    <state x="971" y="454" width="702" height="268" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1605431267769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="971" y="454" width="702" height="268" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1920.1040@0.0.1920.1040" timestamp="1605431267769" />
+    <state x="992" y="395" width="435" height="539" key="ftp.server.browser" timestamp="1605431425368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="992" y="395" width="435" height="539" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1605431425368" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/u_net_liver_master$test.coverage" NAME="test Coverage Results" MODIFIED="1605448489344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
